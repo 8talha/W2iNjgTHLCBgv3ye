@@ -1,4 +1,4 @@
-# iH3Q2eGehReqiWD2
+# Project people happy or not
 This repository is intented for Apziva.com project
 This solution refines input data by removing duplicate columns and constant columns whose Standard deviation is 0.
 Model accuracy is above than the desired accuracy.
